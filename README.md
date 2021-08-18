@@ -1,6 +1,6 @@
 # PRWNet
 
-The codes will be released when the paper is accepted.
+Modifying the train.yml to train and test on your datasets.
 
 The results of T-1000, T-90, T-60, and SQUID have been released at:
 [Google Drive](https://drive.google.com/file/d/1wKgbyTIm8vBkcSV0841RdGdkXsDVwL-_/view?usp=sharing)
